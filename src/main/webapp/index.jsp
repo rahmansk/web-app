@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-<h3>SUCESSSSSSS  )))))))))))))))))</h3>
+<h2>DevOps - Java Application !!</h2>
 </body>
 </html>
